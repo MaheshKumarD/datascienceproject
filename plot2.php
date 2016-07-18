@@ -6,8 +6,8 @@
     <meta name="Description" content="" />
     <meta name="keywords" content="" />
 
-	<link rel="stylesheet" href="css/style.css" media="screen" />
-	<script src="js/canvasjs.min.js"></script>
+	<link rel="stylesheet" href="style.css" media="screen" />
+	<script src="canvasjs.min.js"></script>
 </head>
 
 <body style="margin:0px;background:url('..') 50% 30% no-repeat;background-size:100%; background-color:#000;">
