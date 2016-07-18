@@ -1,0 +1,85 @@
+﻿/* CSS Document */
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+html, body, div, ul, li, p{font-family:arial;}
+body{margin:0px;background:url('../Images/0748.jpg') 50% 30% no-repeat;background-size:100%; background-color:#000;}
+.container{
+ 	width:100%; display:block; 
+	}
+.header{height:30px;padding:10px;background-color:#000;display:block;}
+.header #idFanatic4{float:right;}
+.header #idLogo{float:left;}
+.header div{float:left;display:block;height:30px;font-size:18px; font-family:"Comic Sans MS", cursive, sans-serif; color:#fff; font-weight:bold;}
+
+.header .desc{font-family:Arial, Helvetica, Arno Pro;color:#ffffff; align:center;margin-left:200px;}
+.content1{display:block;width:1000px; margin:0 auto;}
+.content1 .no-txt{height:35vh;}
+.content1 .no-txt1{height:35vh;}
+
+.content1 .navbu a{float:left;border:0px solid #ff0000; cursor:pointer;cursor:pointer; text-decoration:none;color:#fff; width:180px; text-align:center;} 
+.content1 .navbu img{ border: 2px solid #fff; width:200px; height:150px;
+border-radius: 25px; -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);
+-moz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);
+box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);
+-webkit-transform: scale(1);
+-moz-transform: scale(1);
+-o-transform: scale(1);
+transform: scale(1);
+}
+
+
+.content1 .navbu img:hover{
+    -webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+-o-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+.content1 .navbu span{display:block; font-size:22px;}
+.content .welcome{background-color:#0070bd; height:18px;padding:10px; margin-left: 40px; margin-right:40px;}
+.content .welcome .welcome-txt a{float:left;border:0px solid #ff0000; cursor:pointer; text-decoration:none;font-family:Arial, Helvetica, Arno Pro;color:#ffffff; align:center; font-size:14px; font-weight:bold; text-align:center;}
+.content .welcome .welcome-txt a:hover { float:left;border:0px solid #ff0000; cursor:pointer; text-decoration:none;font-family:Arial, Helvetica, Arno Pro;color:#78bd00; font-size:14px; font-weight:bold; text-align:center; } 
+.footer{height:30px;padding:15px;background-color:#000;display:block;position:fixed;bottom:0px;width:98%;}
+.footer div{text-align: center; display:block;font-size:12px; color:#fff; font-weight:bold;}
+
+/*.footer{width:100%;background-color:#000;height:30px;display:block;position:fixed;bottom:0px;line-height:50px;color:#fff;font-size:11px;padding-left:20px;}
+.footer div{float:left;display:block;height:30px;font-size:14px; padding-top:2px; padding-bottom: 5px; color:#fff; font-weight:bold;align:top;}*/
+
+.wrapper{height:px; display:block; margin:0 auto; width:100%;}
+.wrapper h1{color:#fff; font-family:arial;padding:10px; padding-left: 40px;}
+.wrapper h3{color:#fff; font-family:arial;padding:10px; padding-left: 150px;}
+.wrapper p{font-size:14px;padding:10px; color:#fff; padding-left: 150px; padding-right:150px; text-align: justify; text-justify: inter-word;}
+.wrapper table{padding-left:150px; padding-right:150px;}
+.wrapper td{color:#fff;border:0px solid #fff; padding-top:10px; font-size:14px; }
+.wrapper .nbar{background-color:#33FF33;height:5px;}
+
+.imgClass{ border: 2px solid #fff; width:160px;
+border-radius: 15px; -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);
+-moz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);
+box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.75);}
+
+.picture { 
+border: 1px solid #CCCCCC; padding: 3px;
+font: 11px/1.4em Arial, sans-serif; }
+.picture img { border: 1px solid #CCCCCC;
+horizontal-align:middle; margin-bottom: 3px; }
+.right { margin: 0.5em 0pt 0.5em 0.8em; float:right; }
+.left { margin: 0.5em 0.8em 0.5em 0; float:left; }
+
+.content .welcome .inside-txt {font-family:Arial, Helvetica, Arno Pro;color:#ffffff; font-size:13px; text-align: justify; text-justify: inter-word;}
+
+table.inside-table {border-spacing:0px; padding:10px;}
+.inside-table td{color:#fff;border:1px solid #fff; padding:5px; font-size:14px;}
+.inside-table th{color:#fff;border:1px solid #fff; padding:5px; font-size:14px;}
+table .highlightColor{color:#dff80c;}
+
+.inside-txt div{font-family:Arial, Helvetica, Arno Pro;color:#ffffff; font-size:13px; text-align: justify; text-justify: inter-word;}
+
+table tr th{font-family:Arial, Helvetica, Arno Pro;color:#b81526;border:1px solid #888387px; padding:3px; font-size:14px; font-weight:bold;}
+table tr td{font-family:Arial, Helvetica, Arno Pro;color:#ggg;border:1px solid #888387px; padding:3px; font-size:14px;}
+
+.comingContent{font-family:Arial, Helvetica, Arno Pro;color:#ffffff; font-size:22px; font-weight:bold; text-align:center; padding-top:200px}
