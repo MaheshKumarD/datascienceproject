@@ -121,7 +121,7 @@
 
 <form>
 	<div class="header">
-		<img id="idFanatic4" src="Images/download1.png" width="200">	
+		<img id="idFanatic4" src="download1.png" width="200">	
 		<div> The Data Incubator Challenge </div> 
 	</div>
 	<br />
